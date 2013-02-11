@@ -18,5 +18,10 @@ JRuby debugging and performance tuning
 * Tuning JRuby
   * JRuby flags and properties
   * JVM flags and properties
+  * Performance
+    * invokedynamic
+    * what to expect
+  * Startup
+  * Memory
   * Common perf problems
 

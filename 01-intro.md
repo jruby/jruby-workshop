@@ -15,18 +15,18 @@ Introduction and Getting Started
   * JRuby book
   * JVM
     * Installation across platforms
+      * Windows: recommend no spaces in path
+      * Linux: check blessed package first
+      * Linux: Java version switchers?
+      * OS X: pickjdk?
     * Version differences
+      * Java 6 versus Java 7
   * JRuby
     * rvm, rbenv, chruby, whatever
     * Linux packages?
     * Windows installer?
+    * jruby-launcher gem
     * Drip?
-    * Tuning JVM and JRuby
-      * Performance
-        * invokedynamic
-        * what to expect
-      * Startup
-      * Memory
   * jirb
   * gems
 
