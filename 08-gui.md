@@ -9,5 +9,8 @@ Building GUIs with JRuby
   * SWT
     * Basic application
     * Event handling
-  * JavaFX?
+  * JavaFX
+    * Basic application
+    * Event handling
+    * Scene Editor
 

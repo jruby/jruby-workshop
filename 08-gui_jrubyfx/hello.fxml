@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml">
+  <children>
+    <Button layoutX="472.0" layoutY="308.0" mnemonicParsing="false" onAction="#sayClicked" text="OK" />
+    <Text fx:id="helloLabel" layoutX="259.0" layoutY="199.0" scaleX="5.25913088557082" scaleY="7.858017604286261" strokeType="OUTSIDE" strokeWidth="0.0" text="Hello, World!" />
+  </children>
+</AnchorPane>
