@@ -27,4 +27,8 @@ Requested topics:
 * Cloud deployment options
 * Handling Java/Maven deps in a Ruby project
 * Startup time mitigation
-* Thread safety
+* Thread safety, techniques
+* Debugging deployed apps, console in prod etc
+* Integrating with legacy JVM app code
+* Embracing JVM and JVM libs, concerns about tying to JVM
+
